@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the reading assignments of the course, listed by
+  lecture session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings
 uid: 30d7b426-4da5-0cf4-c459-4de42db4570a
 ---
 
-Below are the reading assignments, listed by session. See the [Calendar]({{< baseurl >}}/pages/calendar) page for more details on topics discussed in class.
+Below are the reading assignments, listed by session. See the {{% resource_link 99a966e4-996e-811c-9f87-4f16c072fdf4 "Calendar" %}} page for more details on topics discussed in class.
 
 {{< tableopen >}}
 {{< theadopen >}}
