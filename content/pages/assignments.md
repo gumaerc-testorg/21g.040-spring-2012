@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the response papers, midterm paper,
+  and final paper assigned for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 28ef4f83-1ce3-8dde-769a-64048a0ef49f
 ---

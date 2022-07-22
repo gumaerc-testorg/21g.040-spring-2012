@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides an overview of the topics and material covered
+  in each class session of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 99a966e4-996e-811c-9f87-4f16c072fdf4
 ---
 
-This table provides an overview of the topics and material covered in each class session. For the specific reading assignments for each session, please see the [Readings]({{< baseurl >}}/pages/readings) page.
+This table provides an overview of the topics and material covered in each class session. For the specific reading assignments for each session, please see the {{% resource_link 30d7b426-4da5-0cf4-c459-4de42db4570a "Readings" %}} page.
 
 {{< tableopen >}}
 {{< theadopen >}}
