@@ -144,7 +144,7 @@ History and Memory
 
 Romila Thapar, "[In Defence of History](http://www.india-seminar.com/2003/521/521 romila thapar.htm)."
 
-A. K. Ramanujan, "{{% resource_link "bbb40b16-2f5b-4bfc-9d3c-4f56ff296568" "Three Hundred Ramayanas: Five Examples and Three Thoughts on Translation" %}}."
+A. K. Ramanujan, "[Three Hundred Ramayanas: Five Examples and Three Thoughts on Translation](http://publishing.cdlib.org/ucpressebooks/view?docId=ft3j49n8h7&chunk.id=d0e1254)."
 
 Guest lecture on Dalit Literature (Richard Delacy, Harvard University)
 

@@ -97,9 +97,9 @@ History and Memory
 {{< tdopen >}}
 
 
-Thapar, R. "{{% resource_link "647e2f02-1f7d-4c8d-a3df-de8764ef50ae" "In Defence of History" %}}." Lecture delivered at Thiruvananthapuram, 2002.
+Thapar, R. "[In Defence of History](http://www.india-seminar.com/2003/521/521%20romila%20thapar.htm)." Lecture delivered at Thiruvananthapuram, 2002.
 
-Ramanujan, A. "{{% resource_link "bbb40b16-2f5b-4bfc-9d3c-4f56ff296568" "Three Hundred Ramayanas: Five Examples and Three Thoughts on Translation" %}}." Chapter 2 in _Many Ramayanas: The Diversity of a Narrative Tradition in South Asia_. Edited by P. Richman. University of California Press, 1991. ISBN: 9780520075894.
+Ramanujan, A. "[Three Hundred Ramayanas: Five Examples and Three Thoughts on Translation](http://publishing.cdlib.org/ucpressebooks/view?docId=ft3j49n8h7&chunk.id=d0e1254)." Chapter 2 in _Many Ramayanas: The Diversity of a Narrative Tradition in South Asia_. Edited by P. Richman. University of California Press, 1991. ISBN: 9780520075894.
 
 
 {{< tdclose >}}
